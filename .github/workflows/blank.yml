@@ -1,4 +1,3 @@
-```yaml
 name: BuiKern S9Ta9
 
 on:
@@ -1202,4 +1201,3 @@ jobs:
             ${{ github.workspace }}/output/**
           if-no-files-found: error
           retention-days: 14
-```
